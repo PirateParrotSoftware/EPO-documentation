@@ -10,6 +10,7 @@ var classEPOOutline_1_1Outliner =
     [ "PrimaryBufferSizeMode", "classEPOOutline_1_1Outliner.html#a20e188a50ceb0f38633a1c63487919e6", null ],
     [ "PrimaryRendererScale", "classEPOOutline_1_1Outliner.html#a7f424631ddeca8a73b05519ff9e15836", null ],
     [ "PrimarySizeReference", "classEPOOutline_1_1Outliner.html#a10caf11780052bc07b25ded17c7c73ae", null ],
+    [ "RenderingMode", "classEPOOutline_1_1Outliner.html#a3bff608d6ca9d6c42bb68bf793b57ebc", null ],
     [ "RenderingStrategy", "classEPOOutline_1_1Outliner.html#ab776aee05459ea080fec184b9c421381", null ],
     [ "RenderStage", "classEPOOutline_1_1Outliner.html#a270af8bae6c24f607a9f5215c699946a", null ]
 ];
